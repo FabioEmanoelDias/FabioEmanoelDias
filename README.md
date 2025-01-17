@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá, eu sou o Fabio 👋
+Data Engineer... Loading... ⚡⚡⚡
+Graduação em **Análise e desenvolvimento de sistemas** pela [UNIP](https://www.unip.br/)
+**MBA - Engenharia de dados** pelo Mackenzie
 
 <!--
 **FabioEmanoelDias/FabioEmanoelDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
